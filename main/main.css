@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+html {
+    font-family: Helvetica;
+    color: silver;
+    padding: 0 auto; margin: 0;
+    background-color: black;
+    text-align: center;
+    
+}
+
+p {
+    line-height: 1.5;
+    max-width: 500px;
+    text-align: center;
+    margin: 10% auto;
+}
+
+h1, h2, h3 {
+    margin: auto;
+    padding-top: 10%;
+    color: mistyrose;
+}
+
+h1 {    font-size: 3rem;}
+
+header nav ul li{
+    list-style: none;
+    font-size: 2rem;
+}
+
+a{
+    text-decoration: none;
+    color: mistyrose;
+}
+
+a:hover {
+    color: white;
+}
